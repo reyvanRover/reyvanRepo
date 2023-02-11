@@ -5,6 +5,7 @@ public class Array {
 	public static void main(String[] args) {
 		
 		String []a = {"revan","range","rover","honda"};
+		int m=0;
 	      int b=a.length;
 	      a[2]="tata";
 	      for(int i=0;i<a.length;i++)
